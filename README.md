@@ -1,4 +1,5 @@
 # Hi there, I'm Abdurrahman Ansari 👋
+![Visitors](https://komarev.com/ghpvc/?username=aransari1&label=Profile%20Views&color=0e76a8&style=flat)
 
 ### 👨‍💻 Full-Stack Developer | Laravel Intern at K2 Technologies
 
@@ -29,15 +30,19 @@ I am a **B.Tech graduate** and an aspiring backend specialist currently completi
 
 ### 📊 GitHub Statistics
 
-| My Stats | Top Languages |
-| :---: | :---: |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=aransari1&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aransari1&layout=compact&theme=radical) |
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aransari1&show_icons=true&theme=radical&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aransari1&layout=compact&theme=radical&hide_border=false" />
+</p>
 
 ---
 
 ### 🤝 Connect with Me
 
-<p align="left">
-<a href="https://linkedin.com/in/ar-ansari1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:abdurrahmanansari03@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ar-ansari1/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurrahmanansari03@gmail.com)
+
+---
+
+### 🕸 Activity Graph
+![Abdurrahman's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aransari1&theme=react-dark)
