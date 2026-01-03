@@ -31,16 +31,22 @@ I am a **B.Tech graduate** and an aspiring backend specialist currently completi
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aransari1&show_icons=true&theme=radical&hide_border=false" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aransari1&layout=compact&theme=radical&hide_border=false" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aransari1&theme=radical&hide_border=false" alt="aransari1 streak stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aransari1&layout=compact&theme=radical&hide_border=false" alt="aransari1 top langs" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ar-ansari1/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurrahmanansari03@gmail.com)
+<p align="left">
+<a href="https://linkedin.com/in/ar-ansari1/" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:abdurrahmanansari03@gmail.com" target="blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+</p>
 
 ---
 
