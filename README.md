@@ -1,6 +1,43 @@
-- 👋 Hi, I’m Abdurrahman Ansari (@aransari1)
-- 👀 I’m interested in Application Building, Artificial Intelligence and Machine Learning.
-- 🌱 I’m currently learning Python, Machine Learning and Software Building.
-- 💞️ I’m looking to collaborate on ... Small Projects based on python.
-- 📫 Reach me ... https://www.linkedin.com/in/ar-ansari1/
-- Have suggetions or feedback for me?
+# Hi there, I'm Abdurrahman Ansari 👋
+
+### 👨‍💻 Full-Stack Developer | Laravel Intern at K2 Technologies
+
+I am a **B.Tech graduate** and an aspiring backend specialist currently completing a one-year internship journey. My focus is on building scalable, real-world web applications using the PHP ecosystem. 
+
+- 🔭 **Current Role:** Laravel Intern at **K2 Technologies**.
+- 🏆 **Milestone:** Recently successfully delivered a **real-world project** in a team environment.
+- ⚡ **Experience:** Nearly 1 year of hands-on experience in Full-Stack development.
+- 🌱 **Learning:** Deepening my knowledge in Laravel architecture and advanced API integrations.
+
+---
+
+### 🛠 Tech Stack
+
+**Core Backend & CMS**
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
+**Frontend & Styling**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
+
+### 📊 GitHub Statistics
+
+| My Stats | Top Languages |
+| :---: | :---: |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=aransari1&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aransari1&layout=compact&theme=radical) |
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/ar-ansari1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:abdurrahmanansari03@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+</p>
